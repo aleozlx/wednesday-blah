@@ -1,0 +1,8 @@
+[package]
+name = "blah"
+version = "0.1.0"
+authors = ["Alex Yang <zy5f9@mail.missouri.edu>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.0"
